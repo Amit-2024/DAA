@@ -1,5 +1,5 @@
 // tc - O(nlogn)
-// sc - O(nlogn)
+// sc - O(n)
 
 #include<iostream>
 using namespace std;
